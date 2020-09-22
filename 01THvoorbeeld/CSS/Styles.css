@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(217, 255, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+img {
+    width: 250px;
+    display: block;
+}
